@@ -1,4 +1,4 @@
-Passionate student | Aspiring developer | Coding enthusiast
+ student |  developer | Coding enthusiast
 
 👋 Hello, I'm Ethan, a dedicated student with a strong passion for programming. I love diving into the world of technology and exploring new possibilities through code.
 
